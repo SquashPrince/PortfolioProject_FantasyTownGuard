@@ -1,0 +1,51 @@
+DialogID,DialogText,NextID,NextBoxType
+bell_1,자네가 이번에 새로 지원한 신입인가?,bell_2,Boss
+bell_2,반값군. 나는 앞으로 자네를 가르치게 될 상사 브루스 라고하네,bell_3,Boss
+bell_3,우선 자네가 앞으로 하게 될 일에 대해 설명해주겠네,bell_4,Boss
+bell_4,자네는 이곳에서 마을로 출입하게될 방문객들을 확인하는 일을 하게 될거야,bell_5,Boss
+bell_5,아직은 간단한 업무만 하게 될것이니 너무 걱정하지 말게나,bell_6,Boss
+bell_6,나중에 자네의 실력이 늘어났다고 판단된다면 검사하게될 업무가 늘어나게 될걸세,bell_7,Boss
+bell_7,설명이 너무 길어졌군,bell_8,Boss
+bell_8,우선 앞의 알림벨을 눌러 방문객이 들어오도록 유도하게나,#END,Boss
+scroll_close_1,방문객은 자네에게 방문증과 돈주머니를 제출할걸세,scroll_close_2,Boss
+scroll_close_2,"자네는 방문증에 잘못된 정보가 없는지 확인하고, 정해진 금액만큼 직접 수금하면 된다네",scroll_close_3,Boss
+scroll_close_3,왜 주머니에서 직접 수금을 하냐고?,scroll_close_4,Boss
+scroll_close_4,나도 자세한 내용은 듣지 못했지만 위조된 화폐가 없는지 확인하기 위해서 라고 한다네,scroll_close_5,Boss
+scroll_close_5,아무튼 먼저 방문증을 드래그해서 오른쪽 책상 위로 올려보게나,#END,Boss
+scroll_open_1,"방문증을 펼쳐보면 각각 이름, 직업, 출신지, 방문 이유가 적혀있네",scroll_open_2,Boss
+scroll_open_2,자네는 각 파트별로 잘못된 사항이 없는지 확인하면 된다네,scroll_open_3,Boss
+scroll_open_3,각 파트를 클릭해서 방문객에게 질문하고 답변 중 방문증에 적힌것과 일치하는 확인하면 끝이지,scroll_open_4,Boss
+scroll_open_4,절대 외형만보고 방문증과 다르다고 섣불리 판단하지 말게나,scroll_open_5,Boss
+scroll_open_5,이제 한 번 직접 확인해보게,#END,Boss
+tray_1,지금은 확인차 알려주는거라 넘어갔지만 실제로는 방문객이 자네의 질문에 답변을 해줄걸세,tray_2,Boss
+tray_2,답변 내용을 잘보고 확인증과 틀린 내용이 없는지 꼭 확인하게나,tray_3,Boss
+tray_3,방문증 확인이 끝났다면 이제 인증 확인을 받으면 된다네,tray_4,Boss
+tray_4,아래 서랍을 통해 방문증을 제출하면 잠시후에 인증 마크를 받을수 있지,tray_5,Boss
+tray_5,서랍 손잡이를 클릭해 열고 방문증을 드래그 앤 드롭 하면 올려 놓을 수 있다네,tray_6,Boss
+tray_6,그 상태로 서랍을 닫으면 인증 절차에 들어가고,tray_7,Boss
+tray_7,잠시후 인증 확인 마크를 받을 수 있다네,#END,Boss
+tray_8,인증 절차가 끝나면 느낌표로 알 수 있으니 참고하시게,,
+money_close_1,자 인증 마크까지 받았으니 다음은 직접 수금하는 업무를 해보세나,money_close_2,Boss
+money_close_2,이번에도 마찬가지로 돈 주머니를 드래그해 서랍위에 올려보게,#END,Boss
+money_open_1,올려둔 돈 주머니에서 클릭을 하는것으로 골드(G)를 획득할 수 있다네,money_open_2,Boss
+money_open_2,일단 방문을 했다면 기본 요금으로 300G 를 받아야 한다네 ,money_open_3,Boss
+money_open_3,만약 방문증에 문제가 없어 인증마크까지 받았다면 추가로 500G 를 받아야 하지,money_open_4,Boss
+money_open_4,자네가 확인했던 방문증은 아무 이상이 없었으니 총합 800G 를 받아야 하네,money_open_5,Boss
+money_open_5,이제 자네가 직접 수금해보게나,money_open_6,Boss
+money_open_6,내가 확인하고 있을테니 덜 받거나 더 받을 생각하지 말고,#END,Boss
+visitor_1,잘했네,visitor_2,Boss
+visitor_2,이제 확인이 끝난 방문증과 돈 주머니는 다시 방문객에게 돌려주면 된다네,visitor_3,Boss
+visitor_3,돈 주머니와 방문증을 모두 돌려받은 방문객은 퇴장을 할텐데,visitor_4,Boss
+visitor_4,만약 자네가 방문증에서 문제점을 발견했다면 어떠한 점이 문제였는지 꼭 설명해주어야 한다네,visitor_5,Boss
+visitor_5,어떤한게 문제였는지 많이 알려줄수록 자네의 평가가 높아질걸세,visitor_6,Boss
+visitor_6,자 확인이 끝난 방문객을 보낸 다음 다시 알람벨을 눌러 방문객이 들어오도록 하게나,#END,Boss
+visitor_wrong_1,이번 방문객은 한 번 아무것도 하지말고 방문증과 돈 주머니를 돌려줘 보게나,visitor_wrong_2,Boss
+visitor_wrong_2,시험삼아 잘못된 업무를 했을때는 어떤일이 벌어지는지 알려주려고 하는 것이니 걱정말게 ,#END,Boss
+memocase_1,만약 자네가 해야할 업무중 잘못된 것이 있었을 경우 경고장이 날아올걸세,memocase_2,Boss
+memocase_2,마찬가지로 책상에 올려두는 것으로 어떤 점을 잘못 했는지 확인 할 수 있지,memocase_3,Boss
+memocase_3,이러한 경고장이 많으면 많을수록 자네의 평가는 낮아질 것이니 조심하시게나,#END,Boss
+book_close_1,이것으로 자네가 해야할 업무에 대한 설명을 끝났네,book_close_2,Boss
+book_close_2,일단은 이런 업무들 뿐이지만 나중에 평가가 좋아지면 자네에게 부여될 권한도 늘어나게 될거야,book_close_3,Boss
+book_close_3,물론 그만큼 자네가 해야할 업무량도 늘어나겠지만 말일세,book_close_4,Boss
+book_close_4,혹여나 내가 설명했던 것들중 기억이 안나는게 있다면 저 가이드 북을 살펴보게나,book_close_5,Boss
+book_close_5,그럼 나는 이만 가볼테니 나중에 봄세,#END,Boss

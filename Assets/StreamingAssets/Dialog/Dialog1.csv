@@ -1,0 +1,16 @@
+DialogID,DialogText,NextID,NextBoxType
+Player_Question_Name,성함이 어떻게 됩니까?,Visitor_Answer_Name,Player
+Player_Question_Job,어떤 직업을 가지고 계시죠?,Visitor_Answer_Job,Player
+Player_Question_Country,출신지를 말해주세요,Visitor_Answer_Country,Player
+Player_Question_Reason,어떤 이유때문에 오셨습니까?,Visitor_Answer_Reason,Player
+Visitor_Answer_Name,제 이름은 {Name} 입니다,,Visitor
+Visitor_Answer_Job,직업은 {Job} 입니다,,Visitor
+Visitor_Answer_Country,{Country} 출신입니다,,Visitor
+Visitor_Answer_Reason,{Reason} 때문에 왔습니다,,Visitor
+Player_Answer_Name,이름이 다릅니다,,Player
+Player_Answer_Job,직업이 다릅니다,,Player
+Player_Answer_Country,출신지가 다릅니다,,Player
+Player_Answer_Reason,방문 이유가 다릅니다,,Player
+Visitor_Hello,안녕하세요,,Visitor
+Visitor_Understand,알겠습니다,,Visitor
+Visitor_Thanks,감사합니다,,Visitor
