@@ -123,18 +123,4 @@ Unity Editor에서 `File > Build Profiles` 또는 `Build Settings`를 열고 Web
 - 클릭, 드래그, 호버 입력을 하나의 매니저에서 관리해 상호작용 충돌을 줄였습니다.
 - ScriptableObject 기반 레벨 데이터로 레벨명과 방문자 수를 관리합니다.
 - 튜토리얼 진행 상태와 레벨 진행도를 저장해 재실행 시 이어지는 흐름을 만들었습니다.
-
-## 스크린샷
-
-GitHub에 업로드할 때 아래 영역에 플레이 화면 이미지를 추가하면 좋습니다.
-
-```markdown
-![Gameplay](Docs/Images/gameplay.png)
-![Inspection](Docs/Images/inspection.png)
-![Result](Docs/Images/result.png)
 ```
-
-## 라이선스
-
-프로젝트에 포함된 에셋의 라이선스를 확인한 뒤 공개 범위를 결정해야 합니다.  
-외부 에셋이 포함되어 있다면 저장소 공개 전 출처와 사용 조건을 별도로 정리하는 것을 권장합니다.
